@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 class Plant{
-  final String api_key= 'Ne8NwlISEh3eiKg1AP0sdPJqgeWL23wRDgVn3eWTBrLPZCE2zm';
+  final String api_key= '';
   String image;
   final String language = 'en';
 
