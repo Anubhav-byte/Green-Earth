@@ -6,7 +6,7 @@ class NewsApi{
   final endpoint ;
   var filterUrl = '?q=';
   var filter;
-  var apiKey='&apiKey=acf6e5c757284834be6947b35c98bc5a';
+  var apiKey='&apiKey=';
 
   NewsApi(this.endpoint);
   NewsApi.withFilter(this.endpoint,this.filter);
